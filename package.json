@@ -1,0 +1,28 @@
+{
+  "name": "angular-wistia-upload-widget",
+  "version": "0.0.1",
+  "description": "angular-wistia-upload-widget",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodejs server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ricardoswerneck/wistia-upload-widget.git"
+  },
+  "keywords": [
+    "MEAN",
+    "MVC"
+  ],
+  "author": "Ricardo Werneck <ricardowerneck@gmail.com>",
+  "license": "None",
+  "bugs": {
+    "url": "https://github.com/ricardoswerneck/wistia-upload-widget/issues"
+  },
+  "homepage": "",
+  "dependencies": {
+    "express": "^4.10.7",
+    "multer": "~0.1.6"
+  }
+}
